@@ -52,8 +52,8 @@ neural-networks-and-deep-learning/
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/neural-networks-and-deep-learning.git
-cd neural-networks-and-deep-learning
+git clone https://github.com/haithemboujnah/NeuralNetworks-DeepLearning
+cd NeuralNetworks-DeepLearning
 ```
 
 Install the dependencies:
